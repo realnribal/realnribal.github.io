@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Real Nri World
-email: letstepin@gmail.com
+email: henri.balamou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   La valeur de la connaissance ne dépend pas du lieu où s'acquiert.
   Bienvenue dans mon monde ou je vais partager ce qui m'amuse.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/realnribal/realnribal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: LetStepin
+twitter_username: henri_cc
 github_username:  realnribal
 
 # Build settings
