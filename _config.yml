@@ -29,7 +29,7 @@ twitter_username: henri_cc
 github_username:  realnribal
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
