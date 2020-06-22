@@ -4,7 +4,12 @@ title:  "Mes Projets en Data Science"
 date:   2020-06-22 20:45:34 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+# Projet 1 : Production de miel 
+
+Il s'agit d'un  projet sur la précarité des abeilles au USA. On constate malheureusement la décroissance des abeilles pour diverses raisons. On veut voir comment cette décroissance peut se repercuter sur les années à venir.
+
+[comment]: <>You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
