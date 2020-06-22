@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mes Projets en Data Science"
+title:  "[Mes Projets en Data Science](https://github.com/realnribal/DataScience)"
 date:   2020-06-22 20:45:34 +0200
 categories: jekyll update
 ---
